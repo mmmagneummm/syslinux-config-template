@@ -1,2 +1,1 @@
-# syslinux-config-template
-Template config file for SYSLINUX bootloader
+**Please edit config before using it!**
